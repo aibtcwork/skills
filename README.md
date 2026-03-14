@@ -1,2 +1,0 @@
-# AIBTC-Skills
-aibtc skills

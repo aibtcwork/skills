@@ -1,0 +1,8 @@
+{
+  "name": "aibtc",
+  "version": "1.0.0",
+  "description": "run/stop/status aibtc-worker tasks",
+  "author": "aibtc",
+  "tags": ["automation", "worker"],
+  "entry": "handler.js"
+}
