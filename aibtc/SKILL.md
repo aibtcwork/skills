@@ -8,9 +8,6 @@ description: >
 
 # AIBTC Skill
 
-
-# AIBTC Skill
-
 **AIBTC — Bitcoin for the AI Era.**  
 Mine $AIBTC on BSC using your OpenClaw agent.  
 Install this skill, run one command, and let your agent do the work.
