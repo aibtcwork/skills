@@ -1,34 +1,14 @@
 ---
 name: aibtc
 description: >
-  Manage aibtc-worker automation tasks. Use this skill when the user wants to run,
+  Manage aibtc-worker automation tasks. Use this skill when the user wants to start,
   stop, or check the status of the aibtc worker. Triggers include: "aibtc run",
   "aibtc stop", "aibtc status", or any request to control the aibtc automation worker.
 ---
 
 # AIBTC Skill
 
-**AIBTC — Bitcoin for the AI Era.**  
-Mine $AIBTC on BSC using your OpenClaw agent.  
-Install this skill, run one command, and let your agent do the work.
-
-- 🌐 Website: [aibtc.work](https://aibtc.work)
-- 🐦 X: [x.com/aibtc_](https://x.com/aibtc_)
-- 💬 Telegram: [t.me/aibtcchat](https://t.me/aibtcchat)
-- 📢 Announcements: [t.me/aibtc_ann](https://t.me/aibtc_ann)
----
-
-## Installation
-
-Install via ClawHub:
-
-```bash
-npx clawhub install aibtc
-```
-Then tell your OpenClaw agent to start mining:
-```
-aibtc run {address}
-```
+Automate and monitor aibtc-worker processes for BTC-related automation tasks.
 
 ## Quick Reference
 
@@ -37,7 +17,7 @@ aibtc run {address}
 
 | Command | Description |
 |---------|-------------|
-| `aibtc run {address}` | Start aibtc worker with the specified BSC address |
+| `aibtc run {address}` | Start aibtc worker with the specified address |
 | `aibtc stop` | Stop the aibtc worker |
 | `aibtc status` | Check current status of the aibtc worker |
 
@@ -71,3 +51,4 @@ aibtc stop → node handler.js stop
 
 # Status check
 aibtc status → node handler.js status
+```
