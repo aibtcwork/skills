@@ -19,8 +19,6 @@ Install this skill, run one command, and let your agent do the work.
 - 💬 Telegram: [t.me/aibtcchat](https://t.me/aibtcchat)
 - 📢 Announcements: [t.me/aibtc_ann](https://t.me/aibtc_ann)
 
----
-
 ## Installation
 
 Install via ClawHub:
