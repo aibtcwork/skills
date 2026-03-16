@@ -52,3 +52,18 @@ aibtc stop → node handler.js stop
 # Status check
 aibtc status → node handler.js status
 ```
+
+## AIBTC Skill Disclaimer
+
+Purpose of the Program:
+This program is a cryptocurrency mining worker intended to allow users to participate in mining and earn airdrop rewards. Its functionality is limited to calculating hashes in a loop and submitting seeds.
+
+Source Code:
+The execution code is open-source and available at https://github.com/aibtcwork/AIBTC-worker
+. It only performs hash computation and seed submission—no hidden backdoors or malicious actions are included.
+
+Address:
+The address parameter is provided by the user. Only the user’s own address is used for mining rewards.
+
+VirusTotal / Security Warnings:
+VirusTotal and other antivirus engines may flag the skill as suspicious because it fetches and executes remote code via npx. This behavior is inherent to the mining logic and is not malware. Users are advised to read this disclaimer before execution.
