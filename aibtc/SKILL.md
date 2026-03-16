@@ -27,7 +27,7 @@ npx clawhub install aibtc
 ```
 Then tell your OpenClaw agent to start mining:
 ```
-aibtc run {address}
+aibtc run <BSC address>
 ```
 
 ## Quick Reference
